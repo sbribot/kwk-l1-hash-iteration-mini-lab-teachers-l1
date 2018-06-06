@@ -5,3 +5,5 @@ def add_a_key_value_pair
 end
 
 add_a_key_value_pair
+
+puts summer_olympics
